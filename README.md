@@ -24,8 +24,8 @@
 
 
 ## 📊 Статистика GitHub:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=BigBabyPig&show_icons=true&theme=dark)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Blin4ck&show_icons=true&theme=dark)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBabyPig&layout=compact&theme=dark)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Blin4ck&layout=compact&theme=dark)
 
 
