@@ -69,9 +69,9 @@
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcdayn&show_icons=true&theme=dark )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blin4ck&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcdayn&layout=compact&theme=dark )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blin4ck&layout=compact&theme=dark )
 
 ---
 
