@@ -1,37 +1,47 @@
 # 👋 Привет, я Артем (@Blin4ck)!
-> 🚀 Junior Go-разработчик, изучаю backend и создание REST API.  
+> 🚀 **Junior Go-разработчик** | Создаю эффективные backend-решения   
 
 ---
 
-#### 🧱 Go (Junior+)
+### 🧱 Go (Junior)
 - Работаю с **Golang**: знаю синтаксис, умею работать с горутинами, каналами, интерфейсами.
 - Использую **Gin** для создания HTTP API.
 - Разбираюсь в **GORM** — работаю с БД, связями между моделями.
 - Пишу чистый код по принципам SOLID и Clean Architecture.
 
-#### 🌿 Технологии
+### 🌿  Технологический стек
 
-**🌐 Languages**  
-<img src="https://img.shields.io/badge/Go-8EDDFA?style=flat-square&logo=go&logoColor=white" alt="Go"> 
-<img src="https://img.shields.io/badge/Gin-8EDDFA?style=flat-square&logo=go&logoColor=white" alt="Gin">
-<img src="https://img.shields.io/badge/Git-F1F1F1?style=flat-square&logo=git&logoColor=FF7043" alt="Git">
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
+  <a href="https://gin-gonic.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="40" style="margin: 0 10px"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
+  </a>
+</p>
 
-**💾 Databases**  
-<img src="https://img.shields.io/badge/PostgreSQL-A8D8EA?style=flat-square&logo=postgresql&logoColor=336791" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Redis-FFD5D5?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis">
-
-**🛠️ Tools**  
-<img src="https://img.shields.io/badge/Docker-9AD7FF?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-A6CCFF?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
-<img src="https://img.shields.io/badge/Prometheus-FFE5E5?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus">
----
 
 ### 🛠️ Что сейчас делаю:
 
 Сейчас развиваю мини-проект — **API для кофейни**, где реализую:
 - Получение меню и позиций
 - Создание заказов с подсчётом цены
-- Авторизацию через сессии
+- Авторизацию через JWT
 - Хранение данных в PostgreSQL
 - Тестирование и структурированную архитектуру
 
