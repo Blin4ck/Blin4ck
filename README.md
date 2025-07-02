@@ -9,27 +9,21 @@
 - Разбираюсь в **GORM** — работаю с БД, связями между моделями.
 - Пишу чистый код по принципам SOLID и Clean Architecture.
 
-#### 🚀 Технологии
+#### 🌿 Технологии
 
-**Languages & Frameworks**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**🌐 Languages**  
+<img src="https://img.shields.io/badge/Go-8EDDFA?style=flat-square&logo=go&logoColor=white" alt="Go"> 
+<img src="https://img.shields.io/badge/Gin-8EDDFA?style=flat-square&logo=go&logoColor=white" alt="Gin">
+<img src="https://img.shields.io/badge/Git-F1F1F1?style=flat-square&logo=git&logoColor=FF7043" alt="Git">
 
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**💾 Databases**  
+<img src="https://img.shields.io/badge/PostgreSQL-A8D8EA?style=flat-square&logo=postgresql&logoColor=336791" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Redis-FFD5D5?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-** Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
+**🛠️ Tools**  
+<img src="https://img.shields.io/badge/Docker-9AD7FF?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-A6CCFF?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Prometheus-FFE5E5?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus">
 ---
 
 ### 🛠️ Что сейчас делаю:
